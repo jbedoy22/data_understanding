@@ -4,3 +4,5 @@ para aprender git desde la consola
 
 Se agregan lineas nuevas
 A medida que aumenta se ven los cambios
+
+Hoy estoy aprendiendo git
