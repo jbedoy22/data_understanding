@@ -1,0 +1,3 @@
+Nuevo archivo de texto
+
+para aprender git desde la consola
