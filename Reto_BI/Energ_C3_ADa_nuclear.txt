@@ -1,0 +1,921 @@
+La energía nuclear o atómica es la que se libera espontánea o artificialmente en las reacciones nucleares. Sin embargo, este término engloba otro significado que es el aprovechamiento de dicha energía para otros fines, tales como la obtención de energía eléctrica, térmica y mecánica a partir de reacciones atómicas.[1]​ De esta manera, es común referirse a la energía nuclear no solo como el resultado de una reacción, sino como un concepto más amplio que incluye los conocimientos y técnicas que permiten la utilización de esta energía por parte del ser humano.
+
+Estas reacciones se dan en los núcleos atómicos de algunos isótopos de ciertos elementos químicos (radioisótopos), siendo la más conocida la fisión del uranio-235 (235U), con la que funcionan los reactores nucleares, y la más habitual en la naturaleza, en el interior de las estrellas, la fusión del par deuterio-tritio (2H-3H). Sin embargo, para producir este tipo de energía aprovechando reacciones nucleares pueden ser utilizados muchos otros isótopos de varios elementos químicos, como el torio-232, el plutonio-239, el estroncio-90 o el polonio-210 (232Th, 239Pu, 90Sr, 210Po; respectivamente).
+
+Existen varias disciplinas y/o técnicas que usan de base la energía atómica y van desde la generación de energía eléctrica en las centrales nucleares hasta las técnicas de análisis de datación arqueológica (arqueometría nuclear), la medicina nuclear usada en los hospitales, etc. 
+
+Los sistemas más investigados y trabajados para la obtención de energía aprovechable a partir de la energía nuclear de forma masiva son la fisión nuclear y la fusión nuclear. La energía nuclear puede transformarse de forma descontrolada, dando lugar al armamento nuclear; o controlada en reactores nucleares en los que se produce energía eléctrica, mecánica o térmica. Tanto los materiales usados como el diseño de las instalaciones son completamente diferentes en cada caso.
+
+Otra técnica, empleada principalmente en pilas de mucha duración para sistemas que requieren poco consumo eléctrico, es la utilización de generadores termoeléctricos de radioisótopos (GTR, o RTG en inglés), en los que se aprovechan los distintos modos de desintegración para generar electricidad en sistemas de termopares a partir del calor transferido por una fuente radiactiva.
+
+La energía desprendida en esos procesos nucleares suele aparecer en forma de partículas subatómicas en movimiento. Esas partículas, al frenarse en la materia que las rodea, producen energía térmica. Esta energía térmica se transforma en energía mecánica utilizando motores de combustión externa, como las turbinas de vapor. Dicha energía mecánica puede ser empleada en el transporte, como por ejemplo en los buques nucleares.
+
+La principal característica de este tipo de energía es la alta calidad de la energía que puede producirse por unidad de masa de material utilizado en comparación con cualquier otro tipo de energía conocida por el ser humano, pero sorprende la poca eficiencia del proceso, ya que se desaprovecha entre un 86 % y 92 % de la energía que se libera.[2]​
+
+En las reacciones nucleares se suele liberar una grandísima cantidad de energía debido en parte a que la masa de partículas involucradas en este proceso se transforma directamente en energía. Lo anterior se suele explicar basándose en la relación masa-energía propuesta por el físico Albert Einstein.
+
+En 1896 Henri Becquerel descubrió que algunos elementos químicos emitían radiaciones.[3]​ Tanto él como Marie Curie y otros estudiaron sus propiedades, descubriendo que estas radiaciones eran diferentes de los ya conocidos rayos X y que poseían propiedades distintas, denominando a los tres tipos que consiguieron descubrir: alfa, beta y gamma.
+
+Pronto se vio que todas ellas provenían del núcleo atómico que describió Ernest Rutherford en 1911.
+
+Con el descubrimiento del neutrino, partícula descrita teóricamente en 1930 por Wolfgang Pauli pero no detectada hasta 1956 por Clyde Cowan y sus colaboradores, se pudo explicar la radiación beta.
+
+En 1932 James Chadwick descubrió la existencia del neutrón que Pauli había predicho en 1930, e inmediatamente después Enrico Fermi descubrió que ciertas radiaciones emitidas en fenómenos no muy comunes de desintegración eran en realidad estos neutrones.
+
+Durante los años 1930, Enrico Fermi y sus colaboradores bombardearon con neutrones más de 60 elementos, entre ellos 235Uranio, produciendo las primeras fisiones nucleares artificiales. En 1938, en Alemania, Lise Meitner, Otto Hahn y Fritz Strassmann verificaron los experimentos de Fermi y en 1939 demostraron que parte de los productos que aparecían al llevar a cabo estos experimentos con uranio eran núcleos de bario. Muy pronto llegaron a la conclusión de que eran resultado de la división de los núcleos del uranio. Se había llevado a cabo el descubrimiento de la fisión.
+
+En Francia, Joliot Curie descubrió que además del bario, se emitían neutrones secundarios en esa reacción, haciendo factible la reacción en cadena.
+
+También en 1932 Mark Oliphant teorizó sobre la fusión de núcleos ligeros (de hidrógeno), describiendo poco después Hans Bethe el funcionamiento de las estrellas, basándose en este mecanismo.
+
+En física nuclear, la fisión es una reacción nuclear, lo que significa que tiene lugar en el núcleo atómico. La fisión ocurre cuando un núcleo pesado se divide en dos o más núcleos pequeños, además de algunos subproductos como neutrones libres, fotones (generalmente rayos gamma) y otros fragmentos del núcleo como partículas alfa (núcleos de helio) y beta (electrones y positrones de alta energía).
+
+Durante la Segunda Guerra Mundial, el Departamento de Desarrollo de Armamento de la Alemania nazi desarrolló un proyecto de energía nuclear (Proyecto Uranio) con vistas a la producción de un artefacto explosivo nuclear. Albert Einstein, en 1939, firmó una carta al presidente estadunidense Franklin Delano Roosevelt, escrita por Leó Szilárd, en la que se prevenía sobre este hecho.[4]​
+
+El 2 de diciembre de 1942, como parte del proyecto Manhattan dirigido por J. Robert Oppenheimer, se construyó el primer reactor del mundo hecho por el ser humano (existió un reactor natural en Oklo): el Chicago Pile-1 (CP-1).
+
+Como parte del mismo programa militar, se construyó un reactor mucho mayor en Hanford, destinado a la producción de plutonio, y al mismo tiempo, un proyecto de enriquecimiento de uranio en cascada. El 16 de julio de 1945 fue probada la primera bomba nuclear (nombre en clave Trinity) en el desierto de Alamogordo. En esta prueba se llevó a cabo una explosión equivalente a 19 000 000 kg de TNT (19 kilotones), una potencia jamás observada anteriormente en ningún otro explosivo. Ambos proyectos desarrollados finalizaron con la construcción de dos bombas, una de uranio enriquecido y una de plutonio (Little Boy y Fat Man) que fueron lanzadas sobre las ciudades japonesas de Hiroshima (6 de agosto de 1945) y Nagasaki (9 de agosto de 1945) respectivamente. El 15 de agosto de 1945 acabó la segunda guerra mundial en el Pacífico con la rendición de Japón. Por su parte el programa de armamento nuclear alemán (liderado este por Werner Heisenberg), no alcanzó su meta antes de la rendición de Alemania el 8 de mayo de 1945.
+
+Posteriormente se llevaron a cabo programas nucleares en la Unión Soviética (primera prueba de una bomba de fisión el 29 de agosto de 1949), Francia y Gran Bretaña, comenzando la carrera armamentística en ambos bloques creados tras la guerra, alcanzando límites de potencia destructiva nunca antes sospechada por el ser humano (cada bando podía derrotar y destruir varias veces a todos sus enemigos).
+
+Ya en la década de 1940, el almirante Hyman Rickover propuso la construcción de reactores de fisión no encaminados esta vez a la fabricación de material para bombas, sino a la generación de electricidad. Se pensó, acertadamente, que estos reactores podrían constituir un gran sustituto del diésel en los submarinos. Se construyó el primer reactor de prueba en 1953, botando el primer submarino nuclear (el USS Nautilus (SSN-571)) el 17 de enero de 1955 a las 11:00. El Departamento de Defensa estadounidense propuso el diseño y construcción de un reactor nuclear utilizable para la generación eléctrica y propulsión en los submarinos a dos empresas distintas norteamericanas: General Electric y Westinghouse. Estas empresas desarrollaron los reactores de agua ligera tipo BWR y PWR respectivamente.
+
+Estos reactores se han utilizado para la propulsión de buques, tanto de uso militar (submarinos, cruceros, portaaviones,...) como civil (rompehielos y cargueros), donde presentan unas características de potencia, reducción del tamaño de los motores, reducción de las necesidades de almacenamiento de combustible y autonomía no superadas por ninguna otra técnica existente.
+
+Los mismos diseños de reactores de fisión se trasladaron a diseños comerciales para la generación de electricidad. Los únicos cambios producidos en el diseño con el transcurso del tiempo fueron un aumento de las medidas de seguridad, una mayor eficiencia termodinámica, un aumento de potencia y el uso de las nuevas tecnologías que fueron apareciendo.
+
+Entre 1950 y 1960 Canadá desarrolló un nuevo tipo, basado en el PWR, que utilizaba agua pesada como moderador y uranio natural como combustible, en lugar del uranio enriquecido utilizado por los diseños de agua ligera. Otros diseños de reactores para su uso comercial utilizaron carbono (Magnox, AGR, RBMK o PBR entre otros) o sales fundidas (litio o berilio entre otros) como moderador. Este último tipo de reactor fue parte del diseño del primer avión bombardero (1954) con propulsión nuclear (el US Aircraft Reactor Experiment o ARE). Este diseño se abandonó tras el desarrollo de los misiles balísticos intercontinentales (ICBM). 
+
+Otros países (Francia, Italia, entre otros) desarrollaron sus propios diseños de reactores nucleares comerciales para la generación de energía eléctrica.
+
+En 1946 se construyó el primer reactor de neutrones rápidos (Clementine) en Los Álamos, con plutonio como combustible y mercurio como refrigerante. En 1951 se construyó el EBR-I, el primer reactor rápido con el que se consiguió generar electricidad. En 1996, el Superfénix o SPX, fue el reactor rápido de mayor potencia construido hasta el momento (1200 MWe). En este tipo de reactores se pueden utilizar como combustible los radioisótopos del plutonio, el torio y el uranio que no son fisibles con neutrones térmicos (lentos).
+
+En la década de los 50 Ernest Lawrence propuso la posibilidad de utilizar reactores nucleares con geometrías inferiores a la criticidad (reactores subcríticos cuyo combustible podría ser el torio), en los que la reacción sería soportada por un aporte externo de neutrones. En 1993 Carlo Rubbia propone utilizar una instalación de espalación en la que un acelerador de protones produjera los neutrones necesarios para mantener la instalación. A este tipo de sistemas se les conoce como Sistemas asistidos por aceleradores (en inglés Accelerator driven systems, ADS sus siglas en inglés), y se prevé que la primera planta de este tipo (MYRRHA) comience su funcionamiento el 2033 en el centro de Mol (Bélgica).[5]​[6]​
+
+En física nuclear, la fusión nuclear es el proceso por el cual varios núcleos atómicos de carga similar se unen y forman un núcleo más pesado. Simultáneamente se libera o absorbe una cantidad enorme de energía, que permite a la materia entrar en un estado plasmático.
+La fusión de dos núcleos de menor masa que el hierro (en este elemento y en el níquel ocurre la mayor energía de enlace nuclear por nucleón) libera energía en general. Por el contrario, la fusión de núcleos más pesados que el hierro absorbe energía. En el proceso inverso, la fisión nuclear, estos fenómenos suceden en sentidos opuestos.
+Hasta el principio del siglo XX no se entendía la forma en que se generaba energía en el interior de las estrellas necesaria para contrarrestar el colapso gravitatorio de estas. No existía reacción química con la potencia suficiente y la fisión tampoco era capaz. En 1938 Hans Bethe logró explicarlo mediante reacciones de fusión, con el ciclo CNO, para estrellas muy pesadas. Posteriormente se descubrió el ciclo protón-protón para estrellas de menor masa, como el Sol.
+
+En los años 1940, como parte del proyecto Manhattan, se estudió la posibilidad del uso de la fusión en la bomba nuclear. En 1942 se investigó la posibilidad del uso de una reacción de fisión como método de ignición para la principal reacción de fusión, sabiendo que podría resultar en una potencia miles de veces superior. Sin embargo, tras finalizar la Segunda Guerra Mundial, el desarrollo de una bomba de estas características no fue considerado primordial hasta la explosión de la primera bomba atómica rusa en 1949, RDS-1 o Joe-1. Este evento provocó que en 1950 el presidente estadounidense Harry S. Truman anunciara el comienzo de un proyecto que desarrollara la bomba de hidrógeno. El 1 de noviembre de 1952 se probó la primera bomba nuclear (nombre en clave Mike, parte de la Operación Ivy o Hiedra), con una potencia equivalente a 10 400 000 000 de kg de TNT (10,4 megatones). El 12 de agosto de 1953 la Unión Soviética realiza su primera prueba con un artefacto termonuclear (su potencia alcanzó algunos centenares de kilotones).
+
+Las condiciones necesarias para alcanzar la ignición de un reactor de fusión controlado, sin embargo, no fueron derivadas hasta 1955 por John D. Lawson.[7]​ Los criterios de Lawson definieron las condiciones mínimas necesarias de tiempo, densidad y temperatura que debía alcanzar el combustible nuclear (núcleos de hidrógeno) para que la reacción de fusión se mantuviera. Sin embargo, ya en 1946 se patentó el primer diseño de reactor termonuclear.[8]​ En 1951 comenzó el programa de fusión de Estados Unidos, sobre la base del stellarator. En el mismo año comenzó en la Unión Soviética el desarrollo del primer Tokamak, dando lugar a sus primeros experimentos en 1956. Este último diseño logró en 1968 la primera reacción termonuclear cuasi-estacionaria jamás conseguida, demostrándose que era el diseño más eficiente conseguido hasta la época. ITER, el diseño internacional que tiene fecha de comienzo de sus operaciones en el año 2016 y que intentará resolver los problemas existentes para conseguir un reactor de fusión de confinamiento magnético, utiliza este diseño.
+
+En 1962 se propuso otra técnica para alcanzar la fusión basada en el uso de láseres para conseguir una implosión en pequeñas cápsulas llenas de combustible nuclear (de nuevo núcleos de hidrógeno). Sin embargo hasta la década de los 70 no se desarrollaron láseres suficientemente potentes. Sus inconvenientes prácticos hicieron de esta una opción secundaria para alcanzar el objetivo de un reactor de fusión. Sin embargo, debido a los tratados internacionales que prohibían la realización de ensayos nucleares en la atmósfera, esta opción (básicamente microexplosiones termonucleares) se convirtió en un excelente laboratorio de ensayos para los militares, con lo que consiguió financiación para su continuación. Así, se han construido el National Ignition Facility (NIF, con inicio de sus pruebas programadas para 2010) estadounidense y el Láser Mégajoule francés (LMJ), que persiguen el mismo objetivo de conseguir un dispositivo que consiga mantener la reacción de fusión a partir de este diseño. Ninguno de los proyectos de investigación actualmente en marcha predicen una ganancia de energía significativa, por lo que está previsto un proyecto posterior que pudiera dar lugar a los primeros reactores de fusión comerciales (DEMO con confinamiento magnético e HiPER con confinamiento inercial).
+
+Con la invención de la pila química por Volta en 1800 se dio lugar a una forma compacta y portátil de generación de energía. A partir de entonces fue incesante la búsqueda de sistemas que fueran aún menores y que tuvieran una mayor capacidad y duración. Este tipo de pilas, con pocas variaciones, han sido suficientes para muchas aplicaciones diarias hasta nuestros tiempos. Sin embargo, en el siglo XX surgieron nuevas necesidades, a causa principalmente de los programas espaciales. Se precisaban entonces sistemas que tuvieran una duración elevada para consumos eléctricos moderados y un mantenimiento nulo. Surgieron varias soluciones (como los paneles solares o las células de combustible), pero según se incrementaban las necesidades energéticas y aparecían nuevos problemas (las placas solares son inútiles en ausencia de luz solar), se comenzó a estudiar la posibilidad de utilizar la energía nuclear en estos programas.
+
+A mediados de los años 1950 comenzaron en Estados Unidos las primeras investigaciones encaminadas a estudiar las aplicaciones nucleares en el espacio. De estas surgieron los primeros prototipos de los generadores termoeléctricos de radioisótopos (RTG). Estos dispositivos mostraron ser una alternativa sumamente interesante tanto en las aplicaciones espaciales como en aplicaciones terrestres específicas. En estos artefactos se aprovechan las desintegraciones alfa y beta, convirtiendo toda o gran parte de la energía cinética de las partículas emitidas por el núcleo en calor. Este calor es después transformado en electricidad aprovechando el efecto Seebeck mediante unos termopares, consiguiendo eficiencias aceptables (entre un 5 y un 40 % es lo habitual). Los radioisótopos habitualmente utilizados son 210Po, 244Cm, 238Pu, 241Am, entre otros 30 que se consideraron útiles. Estos dispositivos consiguen capacidades de almacenamiento de energía 4 órdenes de magnitud superiores (10 000 veces mayor) a las baterías convencionales.
+
+En 1959 se mostró al público el primer generador atómico.[9]​ En 1961 se lanzó al espacio el primer RTG, a bordo del SNAP 3. Esta batería nuclear, que alimentaba a un satélite de la armada norteamericana con una potencia de 2,7 W, mantuvo su funcionamiento ininterrumpido durante 15 años.
+
+Estos sistemas se han utilizado y se siguen usando en programas espaciales muy conocidos (Pioneer, Voyager, Galileo, Apolo y Ulises entre otros). Así por ejemplo en 1972 y 1973 se lanzaron los Pioneer 10 y 11, convirtiéndose el primero de ellos en el primer objeto humano de la historia que abandonaba el sistema solar. Ambos satélites continuaron funcionando hasta 17 años después de sus lanzamientos.
+
+La misión Ulises (misión conjunta ESA-NASA) se envió en 1990 para estudiar el Sol, siendo la primera vez que un satélite cruzaba ambos polos solares. Para poder hacerlo hubo que enviar el satélite en una órbita alrededor de Júpiter. Debido a la duración del RTG que mantiene su funcionamiento se prolongó la misión de modo que se pudiera volver a realizar otro viaje alrededor del Sol. Aunque pareciera extraño que este satélite no usara paneles solares en lugar de un RTG, puede entenderse al comparar sus pesos (un panel de 544 kg generaba la misma potencia que un RTG de 56). En aquellos años no existía un cohete que pudiera enviar a su órbita al satélite con ese peso extra.
+
+Estas baterías no solo proporcionan electricidad, sino que en algunos casos, el propio calor generado se utiliza para evitar la congelación de los satélites en viajes en los que el calor del Sol no es suficiente, por ejemplo en viajes fuera del sistema solar o en misiones a los polos de la Luna.
+
+En 1965 se instaló el primer RTG terrestre para el faro de la isla deshabitada Fairway Rock, permaneciendo en funcionamiento hasta 1995, momento en el que se desmanteló. Otros muchos faros situados en zonas inaccesibles cercanas a los polos (sobre todo en la Unión Soviética), utilizaron estos sistemas. Se sabe que la Unión Soviética fabricó más de 1000 unidades para estos usos.
+
+Una aplicación que se dio a estos sistemas fue su uso como marcapasos.[10]​ Hasta los 70 se usaba para estas aplicaciones baterías de mercurio-zinc, que tenían una duración de unos 3 años. En esta década se introdujeron las baterías nucleares para aumentar la longevidad de estos artefactos, posibilitando que un paciente joven tuviera implantado solo uno de estos artefactos para toda su vida. En los años 1960, la empresa Medtronic contactó con Alcatel para diseñar una batería nuclear, implantando el primer marcapasos alimentado con un RTG en un paciente en 1970 en París. Varios fabricantes construyeron sus propios diseños, pero a mediados de esta década fueron desplazados por las nuevas baterías de litio, que poseían vidas de unos 10 años (considerado suficiente por los médicos aunque debiera sustituirse varias veces hasta la muerte del paciente). A mediados de los años 1980 se detuvo el uso de estos implantes, aunque aún existen personas que siguen portando este tipo de dispositivos.
+
+Sir James Chadwick descubrió el neutrón en 1932, año que puede considerarse como el inicio de la física nuclear moderna.[11]​
+
+El modelo de átomo propuesto por Niels Bohr consiste en un núcleo central compuesto por partículas que concentran la mayoría de la masa del átomo (neutrones y protones), rodeado por varias capas de partículas cargadas casi sin masa (electrones). Mientras que el tamaño del átomo resulta ser del orden del angstrom (10-10 m), el núcleo puede medirse en fermis (10-15 m), o sea, el núcleo es 100 000 veces menor que el átomo.
+
+Todos los átomos neutros (sin carga eléctrica) poseen el mismo número de electrones que de protones. Un elemento químico se puede identificar de forma inequívoca por el número de protones que posee su núcleo; este número se llama número atómico (Z). El número de neutrones (N) sin embargo puede variar para un mismo elemento. Para valores bajos de Z ese número tiende a ser muy parecido al de protones, pero al aumentar Z se necesitan más neutrones para mantener la estabilidad del núcleo. A los átomos a los que solo les distingue el número de neutrones en su núcleo (en definitiva, su masa), se les llama isótopos de un mismo elemento. La masa atómica de un isótopo viene dada por 
+
+
+
+A
+=
+Z
++
+N
+
+
+{\displaystyle A=Z+N}
+
+ u, el número de protones más el de neutrones (nucleones) que posee en su núcleo.
+
+Para denominar un isótopo suele utilizarse la letra que indica el elemento químico, con un superíndice que es la masa atómica y un subíndice que es el número atómico (p. ej. el isótopo 238 del uranio se escribiría como 
+
+
+
+
+
+
+92
+
+
+238
+
+
+
+U
+
+
+{\displaystyle _{92}^{238}\!U}
+
+).
+
+Los neutrones y protones que forman los núcleos tienen una masa aproximada de 1 u, estando el protón cargado eléctricamente con carga positiva +1, mientras que el neutrón no posee carga eléctrica. Teniendo en cuenta únicamente la existencia de las fuerzas electromagnética y gravitatoria, el núcleo sería inestable (ya que las partículas de igual carga se repelerían deshaciendo el núcleo), haciendo imposible la existencia de la materia. Por este motivo (ya que es obvio que la materia existe) fue necesario añadir a los modelos una tercera fuerza: la fuerza fuerte (hoy en día fuerza nuclear fuerte residual). Esta fuerza debía tener como características, entre otras, que era muy intensa, atractiva a distancias muy cortas (solo en el interior de los núcleos), siendo repulsiva a distancias más cortas (del tamaño de un nucleón), que era central en cierto rango de distancias, que dependía del espín y que no dependía del tipo de nucleón (neutrones o protones) sobre el que actuaba. En 1935, Hideki Yukawa dio una primera solución a esta nueva fuerza estableciendo la hipótesis de la existencia de una nueva partícula: el mesón. El más ligero de los mesones, el pion, es el responsable de la mayor parte del potencial entre nucleones de largo alcance (1 rfm). El potencial de Yukawa (potencial OPEP) que describe adecuadamente la interacción para dos partículas de espines 
+
+
+
+
+s
+
+1
+
+
+
+
+{\displaystyle s_{1}}
+
+ y 
+
+
+
+
+s
+
+2
+
+
+
+
+{\displaystyle s_{2}}
+
+ respectivamente, se puede escribir como:
+
+Otros experimentos que se realizaron sobre los núcleos indicaron que su forma debía de ser aproximadamente esférica de radio 
+
+
+
+R
+=
+1
+,
+5
+⋅
+
+A
+
+1
+
+/
+
+3
+
+
+
+
+{\displaystyle R=1,5\cdot A^{1/3}}
+
+ fm, siendo A la masa atómica, es decir, la suma de neutrones y protones. Esto exige además que la densidad de los núcleos sea la misma (
+
+
+
+V
+α
+
+R
+
+3
+
+
+α
+A
+
+
+{\displaystyle V\alpha R^{3}\alpha A}
+
+, es decir el volumen es proporcional a A. Como la densidad se halla dividiendo la masa por el volumen 
+
+
+
+ρ
+=
+
+
+A
+V
+
+
+=
+c
+t
+e
+
+
+{\displaystyle \rho ={\frac {A}{V}}=cte}
+
+ ). Esta característica llevó a la equiparación de los núcleos con un líquido, y por tanto al modelo de la gota líquida, fundamental en la comprensión de la fisión de los núcleos.
+
+La masa de un núcleo, sin embargo, no resulta exactamente de la suma de sus nucleones. Tal y como demostró Albert Einstein, la energía que mantiene unidos a esos nucleones es la diferencia entre la masa del núcleo y la de sus elementos, y viene dada por la ecuación 
+
+
+
+E
+=
+m
+⋅
+
+c
+
+2
+
+
+
+
+{\displaystyle E=m\cdot c^{2}}
+
+. Así, pesando los distintos átomos por una parte, y sus componentes por otra, puede determinarse la energía media por nucleón que mantiene unidos a los diferentes núcleos.
+
+En la gráfica puede contemplarse como los núcleos muy ligeros poseen menos energía de ligadura que los que son un poco más pesados (la parte izquierda de la gráfica). Esta característica es la base de la liberación de la energía en la fusión. Y, al contrario, en la parte de la derecha se ve que los elementos muy pesados tienen menor energía de ligadura que los que son algo más ligeros. Esta es la base de la emisión de energía por fisión. Como se ve, es mucho mayor la diferencia en la parte de la izquierda (fusión) que en la de la derecha (fisión).
+
+Fermi, tras el descubrimiento del neutrón, realizó una serie de experimentos en los que bombardeaba distintos núcleos con estas nuevas partículas. En estos experimentos observó que cuando utilizaba neutrones de energías bajas, en ocasiones el neutrón era absorbido emitiéndose fotones. 
+
+Para averiguar el comportamiento de esta reacción repitió el experimento sistemáticamente en todos los elementos de la tabla periódica. Así descubrió nuevos elementos radiactivos, pero al llegar al uranio obtuvo resultados distintos. Lise Meitner, Otto Hahn y Fritz Strassmann consiguieron explicar el nuevo fenómeno al suponer que el núcleo de uranio al capturar el neutrón se escindía en dos partes de masas aproximadamente iguales. De hecho detectaron bario, de masa aproximadamente la mitad que la del uranio. Posteriormente se averiguó que esa escisión (o fisión) no se daba en todos los isótopos del uranio, sino solo en el 235U. Y más tarde aún, se supo que esa escisión podía dar lugar a muchísimos elementos distintos, cuya distribución de aparición es muy típica (similar a la doble joroba de un camello).
+
+En la fisión de un núcleo de uranio, no solo aparecen dos núcleos más ligeros resultado de la división del de uranio, sino que además se emiten 2 o 3 (en promedio 2,5 en el caso del 235U) neutrones a una alta velocidad (energía). Como el uranio es un núcleo pesado no se cumple la relación N=Z (igual número de protones que de neutrones) que sí se cumple para los elementos más ligeros, por lo que los productos de la fisión poseen un exceso de neutrones. Este exceso de neutrones hace inestables (radiactivos) a esos productos de fisión, que alcanzan la estabilidad al desintegrarse los neutrones excedentes por desintegración beta generalmente. La fisión del 235U puede producirse en más de 40 formas diferentes, originándose por tanto más de 80 productos de fisión distintos, que a su vez se desintegran formando cadenas de desintegración, por lo que finalmente aparecen cerca de 200 elementos a partir de la fisión del uranio.
+
+La energía desprendida en la fisión de cada núcleo de 235U es en promedio de 200  MeV. Los minerales explotados para la extracción del uranio suelen poseer contenidos de alrededor de 1 gramo de uranio por kg de mineral (la pechblenda por ejemplo). Como el contenido de 235U en el uranio natural es de un 0,7 %, se obtiene que por cada kg de mineral extraído tendríamos 
+
+
+
+1
+,
+8
+⋅
+
+10
+
+19
+
+
+
+
+{\displaystyle 1,8\cdot 10^{19}}
+
+ átomos de 235U. Si fisionamos todos esos átomos (1 gramo de uranio) obtendríamos teóricamente una energía liberada de 
+
+
+
+3
+,
+6
+⋅
+
+10
+
+27
+
+
+e
+V
+=
+5
+,
+8
+⋅
+
+10
+
+8
+
+
+J
+
+
+{\displaystyle 3,6\cdot 10^{27}eV=5,8\cdot 10^{8}J}
+
+ por gramo. En comparación, por la combustión de 1 kg de carbón de la mejor calidad (antracita) se obtiene una energía de unos 
+
+
+
+4
+⋅
+
+10
+
+7
+
+
+J
+
+
+{\displaystyle 4\cdot 10^{7}J}
+
+, es decir, se necesitan más de 10 toneladas de antracita (el tipo de carbón con mayor poder calorífico) para obtener la misma energía contenida en 1 kg de uranio natural.
+
+La aparición de los 2,5 neutrones por cada fisión posibilita la idea de llevar a cabo una reacción en cadena, si se logra hacer que de esos 2,5 al menos un neutrón consiga fisionar un nuevo núcleo de uranio. La idea de la reacción en cadena es común en otros procesos químicos. Los neutrones emitidos por la fisión no son útiles inmediatamente si lo que se quiere es controlar la reacción, sino que hay que frenarlos (moderarlos) hasta una velocidad adecuada. Esto se consigue rodeando los átomos por otro elemento con un Z pequeño, como por ejemplo hidrógeno, carbono o litio, material denominado moderador.
+
+Otros átomos que pueden fisionar con neutrones lentos son el 233U o el 239Pu. Sin embargo también es posible la fisión con neutrones rápidos (de energías altas), como por ejemplo el 238U (140 veces más abundante que el 235U) o el 232Th (400 veces más abundante que el 235U).
+
+La teoría elemental de la fisión la proporcionaron Bohr y Wheeler, utilizando un modelo según el cual los núcleos de los átomos se comportan como gotas líquidas.
+
+La fisión se puede conseguir también mediante partículas alfa, protones o deuterones.
+
+Así como la fisión es un fenómeno que aparece en la corteza terrestre de forma natural (si bien con una frecuencia pequeña), la fusión es absolutamente artificial en nuestro entorno (aunque es común el núcleo de las estrellas). Sin embargo, esta energía posee ventajas con respecto a la fisión. Por un lado el combustible es abundante y fácil de conseguir, y por otro, sus productos son elementos estables, ligeros y no radiactivos.
+
+En la fusión, al contrario que en la fisión donde se dividen los núcleos, la reacción consiste en la unión de dos o más núcleos ligeros. Esta unión da lugar a un núcleo más pesado que los usados inicialmente y a neutrones. La fusión se consiguió antes incluso de comprender completamente las condiciones que se necesitaban en el desarrollo de armas, limitándose a conseguir condiciones extremas de presión y temperatura usando una bomba de fisión como elemento iniciador (Proceso Teller-Ulam). Pero no es hasta que Lawson define unos criterios de tiempo, densidad y temperatura mínimos[7]​ cuando se comienza a comprender el funcionamiento de la fusión.
+
+Aunque en las estrellas la fusión se da entre una variedad de elementos químicos, el elemento con el que es más sencillo alcanzarla es el hidrógeno. El hidrógeno posee tres isótopos: el hidrógeno común (
+
+
+
+
+
+
+
+1
+
+
+1
+
+
+
+H
+
+
+{\displaystyle {}_{1}^{1}\!H}
+
+), el deuterio (
+
+
+
+
+
+
+
+1
+
+
+2
+
+
+
+H
+
+
+{\displaystyle {}_{1}^{2}\!H}
+
+) y el tritio (
+
+
+
+
+
+
+
+1
+
+
+3
+
+
+
+H
+
+
+{\displaystyle {}_{1}^{3}\!H}
+
+). Esto es así porque la fusión requiere que se venza la repulsión electrostática que experimentan los núcleos al unirse, por lo que a menor carga eléctrica, menor será esta. Además, a mayor cantidad de neutrones, más pesado será el núcleo resultante (más arriba estaremos en la gráfica de las energías de ligadura), con lo que mayor será la energía liberada en la reacción.
+
+Una reacción particularmente interesante es la fusión de deuterio y tritio:
+
+En esta reacción se liberan 17,6 MeV por fusión, más que en el resto de combinaciones con isótopos de hidrógeno. Además esta reacción proporciona un neutrón muy energético que puede aprovecharse para generar combustible adicional para reacciones posteriores de fusión, utilizando litio, por ejemplo. La energía liberada por gramo con esta reacción es casi mil veces mayor que la lograda en la fisión de un gramo de uranio natural (unas siete veces superior si fuera un gramo de 235U puro).
+
+Para vencer la repulsión electrostática, es necesario que los núcleos a fusionar alcancen una energía cinética de aproximadamente 10 keV. Esta energía se obtiene mediante un intenso calentamiento (igual que en las estrellas, donde se alcanzan temperaturas de 108 K), que implica un movimiento de los átomos igual de intenso. Además de esa velocidad para vencer la repulsión electrostática, la probabilidad de que se produzca la fusión debe ser elevada para que la reacción suceda. Esto implica que se deben poseer suficientes átomos con energía suficiente durante un tiempo mínimo. El criterio de Lawson define que el producto entre la densidad de núcleos con esa energía por el tiempo durante el que deben permanecer en ese estado debe ser 
+
+
+
+n
+⋅
+τ
+=
+
+10
+
+14
+
+
+s
+⋅
+n
+u
+c
+l
+e
+o
+s
+⋅
+c
+
+m
+
+−
+3
+
+
+
+
+{\displaystyle n\cdot \tau =10^{14}s\cdot nucleos\cdot cm^{-3}}
+
+.
+
+Los dos métodos en desarrollo para aprovechar de forma útil (no bélica) la energía desprendida en esta reacción son el confinamiento magnético y el confinamiento inercial (con fotones que provienen de láser o partículas que provienen de aceleradores).
+
+Esta reacción es una forma de fisión espontánea, en la que un núcleo pesado emite una partícula alfa (α) con una energía típica de unos 5 MeV. Una partícula α es un núcleo de helio, constituido por dos protones y dos neutrones. En su emisión el núcleo cambia, por lo que el elemento químico que sufre este tipo de desintegración muta en otro distinto. Una reacción natural típica es la siguiente:
+
+En la que un átomo de 238U se transforma en otro de 234Th.
+
+Fue en 1928 cuando George Gamow dio una explicación teórica a la emisión de estas partículas. Para ello supuso que la partícula alfa convivía en el interior del núcleo con el resto de los nucleones, de una forma casi independiente. Por efecto túnel en algunas ocasiones esas partículas superan el pozo de potencial que crea el núcleo, separándose de él a una velocidad de un 5 % la velocidad de la luz.
+
+Existen dos modos de desintegración beta. En el tipo β− la fuerza débil convierte un neutrón (n0) en un protón (p+) y al mismo tiempo emite un electrón (e−) y un antineutrino (
+
+
+
+
+
+
+
+ν
+¯
+
+
+
+
+e
+
+
+
+
+{\displaystyle {\bar {\nu }}_{e}}
+
+):
+
+En el tipo β+ un protón se transforma en un neutrón emitiendo un positrón (e+) y un neutrino (
+
+
+
+
+ν
+
+e
+
+
+
+
+{\displaystyle \nu _{e}}
+
+):
+
+Sin embargo, este último modo no se presenta de forma aislada, sino que necesita un aporte de energía.
+
+La desintegración beta hace cambiar al elemento químico que la sufre. Por ejemplo, en la desintegración β− el elemento se transforma en otro con un protón (y un electrón) más. Así en la desintegración del 137Cs por β−;
+
+En 1934, Enrico Fermi consiguió crear un modelo de esta desintegración que respondía correctamente a su fenomenología.
+
+Un arma es todo instrumento, medio o máquina que se destina a atacar o a defenderse.[12]​ Según tal definición, existen dos categorías de armas nucleares:
+
+Existen dos formas básicas de utilizar la energía nuclear desprendida por reacciones en cadena descontroladas de forma explosiva: la fisión y la fusión.
+
+El 16 de julio de 1945 se produjo la primera explosión de una bomba de fisión creada por el ser humano: La Prueba Trinity.
+
+Existen dos tipos básicos de bombas de fisión: utilizando uranio altamente enriquecido (enriquecimiento superior al 90 % en 235U) o utilizando plutonio. Ambos tipos se fundamentan en una reacción de fisión en cadena descontrolada y solo se han empleado en un ataque real en Hiroshima y Nagasaki, al final de la Segunda Guerra Mundial.
+
+Para que este tipo de bombas funcionen es necesario utilizar una cantidad del elemento utilizado superior a la Masa crítica. Suponiendo una riqueza en el elemento del 100 %, eso suponen 52 kg de 235U o 10 kg de 239Pu. Para su funcionamiento se crean 2 o más partes subcríticas que se unen mediante un explosivo químico convencional de forma que se supere la masa crítica.
+
+Los dos problemas básicos que se debieron resolver para crear este tipo de bombas fueron:
+
+El rango de potencia de estas bombas se sitúa entre aproximadamente el equivalente a una tonelada de TNT hasta los 500.000 kilotones.
+
+Tras el primer ensayo exitoso de una bomba de fisión por la Unión Soviética en 1949 se desarrolló una segunda generación de bombas nucleares que utilizaban la fusión. Se la llamó bomba termonuclear, bomba H o bomba de hidrógeno. Este tipo de bomba no se ha utilizado nunca contra ningún objetivo real. El llamado diseño Teller-Ullam (o secreto de la bomba H) separa ambas explosiones en dos fases.
+
+Este tipo de bombas pueden ser miles de veces más potentes que las de fisión. En teoría no existe un límite a la potencia de estas bombas, siendo la de mayor potencia explotada la bomba del Zar, de una potencia superior a los 50 megatones. 
+
+Las bombas de hidrógeno utilizan una bomba primaria de fisión que genera las condiciones de presión y temperatura necesarias para comenzar la reacción de fusión de núcleos de hidrógeno. Los únicos productos radiactivos que generan estas bombas son los producidos en la explosión primaria de fisión, por lo que a veces se le ha llamado bomba nuclear limpia. El extremo de esta característica son las llamadas bombas de neutrones o bomba N, que minimizan la bomba de fisión primaria, logrando un mínimo de productos de fisión. Estas bombas además se diseñaron de tal modo que la mayor cantidad de energía liberada sea en forma de neutrones, con lo que su potencia explosiva es la décima parte que una bomba de fisión. Fueron concebidas como armas anti-tanque, ya que al penetrar los neutrones en el interior de los mismos, matan a sus ocupantes por las radiaciones.
+
+Durante la segunda guerra mundial se comprobó que el submarino podía ser un arma decisiva, pero poseía un grave problema: su necesidad de emerger tras cortos períodos para obtener aire para la combustión del diésel en que se basaban sus motores (la invención del snorkel mejoró algo el problema, pero no lo solucionó). El Almirante Hyman G. Rickover fue el primero que pensó que la energía nuclear podría ayudar con este problema.
+
+Los desarrollos de los reactores nucleares permitieron un nuevo tipo de motor con ventajas fundamentales:
+
+Estas ventajas condujeron a buques que alcanzan velocidades de más de 25 nudos, que pueden permanecer semanas en inmersión profunda y que además pueden almacenar enormes cantidades de munición (nuclear o convencional) en sus bodegas. De hecho las armadas de Estados Unidos, Francia y el Reino Unido solo poseen submarinos que utilizan este sistema de propulsión.
+
+En los submarinos se han utilizado reactores de agua a presión, de agua en ebullición o de sales fundidas. Para conseguir reducir el peso del combustible en estos reactores se usa uranio con altos grados de enriquecimiento (del 30 al 40 % en los rusos o del 96 % en los estadounidenses). Estos reactores presentan la ventaja de que no es necesario (aunque sí es posible) convertir el vapor generado por el calor en electricidad, sino que puede utilizarse de forma directa sobre una turbina que proporciona el movimiento a las hélices que impulsan el buque, mejorando notablemente el rendimiento.
+
+Se han construido una gran variedad de buques militares que usan motores nucleares y que, en algunos casos, portan a su vez misiles de medio o largo alcance con cabezas nucleares:
+
+Estados Unidos, Gran Bretaña, Rusia, China y Francia poseen buques de propulsión nuclear.
+
+Tanto Estados Unidos como la Unión Soviética se plantearon la creación de una flota de bombarderos de propulsión nuclear. De este modo se pretendía mantenerlos cargados con cabezas nucleares y volando de forma permanente cerca de los objetivos prefijados. Con el desarrollo del Misil balístico intercontinental (ICBM) a finales de los años 1950, más rápidos y baratos, sin necesidad de pilotos y prácticamente invulnerables, se abandonaron todos los proyectos.
+
+Los proyectos experimentales fueron:
+
+La energía atómica se utiliza desde los años 1950 como sistema para dar empuje (propulsar) distintos sistemas, desde los submarinos (el primero que utilizó la energía nuclear), hasta naves espaciales.
+
+Tras el desarrollo de los buques de propulsión nuclear de uso militar se hizo pronto patente que existían ciertas situaciones en las que sus características podían ser trasladadas a la navegación civil.
+
+Se han construido cargueros y rompehielos que usan reactores nucleares como propulsión.
+
+El primer buque nuclear de carga y pasajeros fue el NS Savannah, botado en 1962. Solo se construyeron otros tres buques de carga y pasajeros: El Mutsu japonés, el Otto Hahn alemán y el Sevmorput ruso. El Sevmorput (acrónimo de 'Severnii Morskoi Put'), botado en 1988 y dotado con un reactor nuclear tipo KLT-40 de 135 MW, sigue en activo hoy en día transitando la ruta del mar del norte.
+
+Aunque existen varias opciones que pueden utilizar la energía nuclear para propulsar cohetes espaciales, solo algunas han alcanzado niveles de diseño avanzados.
+
+El cohete termonuclear, por ejemplo, utiliza hidrógeno recalentado en un reactor nuclear de alta temperatura, consiguiendo empujes al menos dos veces superiores a los cohetes químicos. Este tipo de cohetes se probaron por primera vez en 1959 (el Kiwi 1), dentro del Proyecto NERVA, cancelado en 1972. En 1990 se relanzó el proyecto bajo las siglas SNTP (Space Nuclear Thermal Propulsion)[13]​ dentro del proyecto para un viaje tripulado a Marte en 2019. En 2003 comenzó con el nombre de Proyecto Prometeo. Otra de las posibilidades contempladas es el uso de un reactor nuclear que alimente a un propulsor iónico (Nuclear Electric Xenon Ion System o NEXIS).
+
+El Proyecto Orión[14]​ fue un proyecto ideado por Stanisław Ulam en 1947, que comenzó en 1958 en la empresa General Atomics. Su propósito era la realización de viajes interplanetarios de forma barata a una velocidad de un 10 % de c. Para ello utilizaba un método que se denominó propulsión nuclear pulsada (External Pulsed Plasma Propulsion es su denominación oficial en inglés). El proyecto fue abandonado en 1963, pero el mismo diseño se ha utilizado como base en el Proyecto Daedalus[15]​ británico con motor de fusión, el Proyecto Longshot[16]​ americano con motor de fisión acoplado a un motor de fusión inercial o el Proyecto Medusa.
+
+También se ha propuesto el uso de RTG como fuente para un cohete de radioisótopos.[17]​
+
+La única propuesta conocida es el diseño conceptual lanzado por Ford en 1958: el Ford Nucleon.[18]​ Nunca fue construido un modelo operacional. En su diseño se proponía el uso de un pequeño reactor de fisión que podía proporcionar una autonomía de más de 8000 km. Un prototipo del coche se mantiene en el museo Henry Ford.
+
+Una opción, incluida en las alternativas al petróleo, es el uso del hidrógeno en células de combustible como combustible para vehículos de hidrógeno. Se está investigando en este caso el uso de la energía nuclear para la generación del hidrógeno necesario mediante reacciones termoquímicas o de electrólisis con vapor a alta temperatura.[19]​[20]​
+
+Probablemente, la aplicación práctica más conocida de la energía nuclear es la generación de energía eléctrica para su uso civil, en particular mediante la fisión de uranio enriquecido. Para ello se utilizan reactores en los que se hace fisionar o fusionar un combustible. El funcionamiento básico de este tipo de instalaciones industriales es similar a cualquier otra central térmica, sin embargo poseen características especiales con respecto a las que usan combustibles fósiles:
+
+Tras su uso exclusivamente militar, se comenzó a plantear la aplicación del conocimiento adquirido a la vida civil. El 20 de diciembre de 1951 fue el primer día que se consiguió generar electricidad con un reactor nuclear (en el reactor estadounidense EBR-I, con una potencia de unos 100 kW), pero no fue hasta 1954 cuando se conectó a la red eléctrica una central nuclear (fue la central nuclear soviética Obninsk, generando 5 MW con solo un 17 % de rendimiento térmico). El primer reactor de fisión comercial fue el Calder Hall en Sellafield, que se conectó a la red eléctrica en 1956. El 25 de marzo de 1957 se creó la Comunidad Europea de la Energía Atómica (EURATOM), el mismo día que se creó la Comunidad Económica Europea, entre Bélgica, Francia, Alemania, Italia, Luxemburgo y los Países Bajos. Ese mismo año se creó el Organismo Internacional de Energía Atómica (OIEA). Ambos organismos con la misión, entre otras, de impulsar el uso pacífico de la energía nuclear.
+
+Su desarrollo en todo el mundo experimentó a partir de ese momento un gran crecimiento, de forma muy particular en Francia y Japón, donde la crisis del petróleo de 1973 influyó definitivamente, ya que su dependencia del petróleo para la generación eléctrica era muy marcada (39 y 73 % respectivamente en aquellos años, en 2008 generan un 78 y un 30 % respectivamente mediante reactores de fisión).[cita requerida] En 1979 el accidente de Three Mile Island provocó un aumento muy considerable en las medidas de control y de seguridad en las centrales, sin embargo no se detuvo el aumento de capacidad instalada. Pero en 1986 el accidente de Chernóbil, en un reactor RBMK de diseño soviético que no cumplía los requisitos de seguridad que se exigían en Occidente, cortó drásticamente ese crecimiento.
+
+En octubre de 2007 existían 439 centrales nucleares en todo el mundo que generaron 2,7 millones de MWh en 2006. La potencia instalada en 2007 fue de 370 721 MWe. En marzo de 2008 había 35 centrales en construcción, planes para construir 91 centrales nuevas (99 095 MWe) y otras 228 propuestas (198 995MWe).[25]​ Aunque solo 30 países en el mundo poseen centrales nucleares, aproximadamente el 15 % de la energía eléctrica generada en el mundo se produce a partir de energía nuclear.[26]​
+
+La mayoría de los reactores son de los llamados de agua ligera (LWR por su sigla en inglés), que utilizan como moderador agua intensamente purificada. En estos reactores el combustible utilizado es uranio enriquecido ligeramente (entre el 3 y el 5 %).
+
+Más tarde se planteó añadir el plutonio fisible generado (
+
+
+
+
+
+
+
+94
+
+
+239
+
+
+P
+u
+
+
+{\displaystyle {}_{94}^{239}Pu}
+
+) como combustible extra en estos reactores de fisión, aumentando de una forma importante la eficiencia del combustible nuclear y reduciendo así uno de los problemas del combustible gastado. Esta posibilidad incluso llevó al uso del plutonio procedente del armamento nuclear desmantelado en las principales potencias mundiales. Así se desarrolló el combustible MOX, en el que se añade un porcentaje (entre un 3 y un 10 % en masa) de este plutonio a uranio empobrecido. Este combustible se usa actualmente como un porcentaje del combustible convencional (de uranio enriquecido). También se ha ensayado en algunos reactores un combustible mezcla de torio y plutonio, que genera una menor cantidad de elementos transuránicos. 
+
+Otros reactores utilizan agua pesada como moderador. En estos reactores se puede utilizar uranio natural, es decir, sin enriquecer y además se produce una cantidad bastante elevada de tritio por activación neutrónica. Este tritio se prevé que pueda aprovecharse en futuras plantas de fusión. 
+
+Otros proyectos de fisión, que no han superado hoy en día la fase de experimentación, se encaminan al diseño de reactores en los que pueda generarse electricidad a partir de otros isótopos, principalmente el 
+
+
+
+
+
+
+
+90
+
+
+232
+
+
+T
+h
+
+
+{\displaystyle {}_{90}^{232}Th}
+
+ y el 
+
+
+
+
+
+
+
+92
+
+
+238
+
+
+U
+
+
+{\displaystyle {}_{92}^{238}U}
+
+.
+
+La diferencia básica entre los distintos diseños de reactores nucleares de fisión es el combustible que utilizan. Esto influye en el tipo de moderador y refrigerante usados. De entre todas las posibles combinaciones entre tipo de combustible, moderador y refrigerante, solo algunas son viables técnicamente (unas 100 contando las opciones de neutrones rápidos). Pero solo unas cuantas se han utilizado hasta el momento en reactores de uso comercial para la generación de electricidad (ver tabla).
+
+El único isótopo natural que es fisionable con neutrones térmicos es el 
+
+
+
+
+
+
+
+92
+
+
+235
+
+
+U
+
+
+{\displaystyle {}_{92}^{235}U}
+
+, que se encuentra en una proporción de un 0.7 % en peso en el uranio natural. El resto es 
+
+
+
+
+
+
+
+92
+
+
+238
+
+
+U
+
+
+{\displaystyle {}_{92}^{238}U}
+
+, considerado fértil, ya que, aunque puede fisionar con neutrones rápidos, por activación con neutrones se convierte en 
+
+
+
+
+
+
+
+94
+
+
+239
+
+
+P
+u
+
+
+{\displaystyle {}_{94}^{239}Pu}
+
+, que sí es físil mediante neutrones térmicos.
+
+Los reactores de fisión comerciales, tanto de primera como de segunda o tercera generación, utilizan uranio con grados de enriquecimiento distinto, desde uranio natural hasta uranio ligeramente enriquecido (por debajo del 6 %). Además, en aquellos en los que se usa uranio enriquecido, la configuración del núcleo del reactor utiliza diferentes grados de enriquecimiento, con uranio más enriquecido en el centro y menos hacia el exterior. Esta configuración consigue dos fines: por una parte disminuir los neutrones de fuga por reflexión, y por otra parte aumentar la cantidad de 
+
+
+
+
+
+
+
+94
+
+
+239
+
+
+P
+u
+
+
+{\displaystyle {}_{94}^{239}Pu}
+
+ consumible. En los reactores comerciales se hacen fisionar esos átomos fisibles con neutrones térmicos hasta el máximo posible (al grado de quemado del combustible se le denomina burnup), ya que se obtienen mayores beneficios cuanto más provecho se saca del combustible.
+
+Otro isótopo considerado fértil con neutrones térmicos es el torio (elemento natural, compuesto en su mayoría por el isótopo 
+
+
+
+
+
+
+
+90
+
+
+232
+
+
+T
+h
+
+
+{\displaystyle {}_{90}^{232}Th}
+
+), que por activación produce 
+
+
+
+
+
+
+
+92
+
+
+233
+
+
+U
+
+
+{\displaystyle {}_{92}^{233}U}
+
+, físil con neutrones térmicos y rápidos (es regla general que aquellos elementos con número atómico A impar sean fisibles, y con A par fértiles).
+
+Esos tres isótopos son los que producen fisiones exoergicas, es decir, generan más energía que la necesaria para producirlas, con neutrones térmicos. Los demás elementos (con z<92) solo fisionan con neutrones rápidos. Así el 
+
+
+
+
+
+
+
+92
+
+
+238
+
+
+U
+
+
+{\displaystyle {}_{92}^{238}U}
+
+ por ejemplo puede fisionarse con neutrones de energías superiores a 1,1 MeV.
+
+Aunque hay varias formas de clasificar los distintos reactores nucleares, la más utilizada, y con la que se denominan los distintos tipos de reactores de fisión es por la combinación moderador/refrigerante utilizado. Estas son las denominaciones de los reactores comerciales de neutrones térmicos utilizados en la actualidad (de segunda generación), junto a su número en el mundo (entre paréntesis)[28]​ y sus características principales:
+
+Los diseños de reactores que utilizan neutrones rápidos, y por tanto pueden utilizar como combustible 
+
+
+
+
+
+
+
+92
+
+
+238
+
+
+U
+
+
+{\displaystyle {}_{92}^{238}U}
+
+, 
+
+
+
+
+
+
+
+94
+
+
+239
+
+
+P
+u
+
+
+{\displaystyle {}_{94}^{239}Pu}
+
+ o 
+
+
+
+
+
+
+
+90
+
+
+232
+
+
+T
+h
+
+
+{\displaystyle {}_{90}^{232}Th}
+
+ entre otros, no necesitan moderador para funcionar. Por ese motivo es difícil utilizar los mismos materiales que se usan en los térmicos como refrigerantes, ya que en muchas ocasiones también actúan como moderador. Todos los reactores de este tipo hasta el momento han utilizado como refrigerante metales líquidos (mercurio, plutonio, yoduro potásico, plomo, bismuto, sodio...). Cuando estos reactores además consiguen producir más cantidad de material físil que el que consumen se les denomina reactores reproductores rápidos. En la actualidad existen cuatro FBR, tres en parada fría y solo uno en operación comercial.[28]​
+
+Los diseños de reactores que aprovechan las lecciones aprendidas en el medio siglo transcurrido (aproximadamente una docena de diseños distintos) se denominan de tercera generación o reactores avanzados. Solo se han puesto en marcha algunos en Japón y se están construyendo algunos otros. En general son evoluciones de los reactores de segunda generación (como el BWR avanzado o ABWR o el PWR avanzado: el EPR o el AP1000), aunque existen algunos diseños completamente nuevos (como el PBMR que utiliza helio como refrigerante y combustible TRISO que contiene el moderador de grafito en su composición).
+
+Los reactores de cuarta generación no saldrán del papel al menos hasta 2020, y en general son diseños que buscan, además de niveles de seguridad superiores a las plantas de fisión de las generaciones anteriores, que los únicos residuos de alta actividad tengan vidas muy cortas, quemando los actínidos de vida larga. A este grupo pertenecen por ejemplo los reactores asistidos por acelerador (ADS). En general estos reactores se basarán en neutrones rápidos.
+
+Existen algunos otros diseños, basados fundamentalmente en los descritos, para generar energía en lugares remotos, como el reactor flotante ruso KLT-40S o el microrreactor nuclear de 200 kW de Toshiba.[30]​
+
+Como cualquier actividad humana, una central nuclear de fisión conlleva riesgos y beneficios. Los riesgos deben preverse y analizarse para poder ser mitigados. A todos aquellos sistemas diseñados para eliminar o al menos minimizar esos riesgos se les llama sistemas de protección y control. En una central nuclear de uso civil se utiliza una aproximación llamada defensa en profundidad. Esta aproximación sigue un diseño de múltiples barreras para alcanzar ese propósito. Una primera aproximación a las distintas barreras utilizadas (cada una de ellas múltiple), de fuera adentro podría ser:
+
+Además debe estar previsto qué hacer en caso de que todos o varios de esos niveles fallaran por cualquier circunstancia. Todos, los trabajadores u otras personas que vivan en las cercanías, deben poseer la información y formación necesaria. Deben existir planes de emergencia que estén plenamente operativos. Para ello es necesario que sean periódicamente probados mediante simulacros. Cada central nuclear posee dos planes de emergencia: uno interior y uno exterior, comprendiendo el plan de emergencia exterior, entre otras medidas, planes de evacuación de la población cercana por si todo lo demás fallara.
+
+Aunque los niveles de seguridad de los reactores de tercera generación han aumentado considerablemente con respecto a las generaciones anteriores, no es esperable que varíe la estrategia de defensa en profundidad. Por su parte, los diseños de los futuros reactores de cuarta generación se están centrando en que todas las barreras de seguridad sean infalibles, basándose tanto como sea posible en sistemas pasivos y minimizando los activos. Del mismo modo, probablemente la estrategia seguida será la de defensa en profundidad.
+
+Cuando una parte de cualquiera de esos niveles, compuestos a su vez por múltiples sistemas y barreras, falla (por defecto de fabricación, desgaste, o cualquier otro motivo), se produce un aviso a los controladores que a su vez se lo comunican a los inspectores residentes en la central nuclear. Si los inspectores consideran que el fallo puede comprometer el nivel de seguridad en cuestión elevan el aviso al organismo regulador (en España el CSN). A estos avisos se les denomina sucesos notificables.[37]​[38]​ En algunos casos, cuando el fallo puede hacer que algún parámetro de funcionamiento de la central supere las Especificaciones Técnicas de Funcionamiento (ETF) definidas en el diseño de la central (con unos márgenes de seguridad), se produce un paro automático de la reacción en cadena llamado SCRAM. En otros casos la reparación de esa parte en cuestión (una válvula, un aspersor, una compuerta,...) puede llevarse a cabo sin detener el funcionamiento de la central.
+
+Si cualquiera de las barreras falla aumenta la probabilidad de que suceda un accidente. Si varias barreras fallan en cualquiera de los niveles, puede finalmente producirse la ruptura de ese nivel. Si varios de los niveles fallan puede producirse un accidente, que puede alcanzar diferentes grados de gravedad. Esos grados de gravedad se organizaron en la Escala Internacional de Accidentes Nucleares (INES) por el OIEA y la AEN, iniciándose la escala en el 0 (sin significación para la seguridad) y acabando en el 7 (accidente grave). El incidente (denominados así cuando se encuentran en grado 3 o inferiores) más grave ocurrido en España fue el de Vandellós I en 1989, catalogado a posteriori (no existía ese año la escala en España) como de grado 3 (incidente importante).[39]​
+
+La ruptura de varias de estas barreras (no existía independencia con el gobierno, el diseño del reactor era de reactividad positiva, la planta no poseía edificio de contención, no existían planes de emergencia, etc.) causó el accidente nuclear más grave ocurrido: el accidente de Chernóbil, de nivel 7 en la Escala Internacional de Accidentes Nucleares (INES).
+
+Al igual que la fisión, tras su uso exclusivamente militar, se propuso el uso de esta energía en aplicaciones civiles. En particular, los grandes proyectos de investigación se han encaminado hacia el desarrollo de reactores de fusión para la producción de electricidad. El primer diseño de reactor nuclear se patentó en 1946,[8]​ aunque hasta 1955 no se definieron las condiciones mínimas que debía alcanzar el combustible (isótopos ligeros, habitualmente de hidrógeno), denominadas criterios de Lawson, para conseguir una reacción de fusión continuada. Esas condiciones se alcanzaron por primera vez de forma cuasiestacionaria el año 1968.
+
+La fusión se plantea como una opción más eficiente (en términos de energía producida por masa de combustible utilizada) segura y limpia que la fisión, útil para el largo plazo.[40]​ Sin embargo faltan aún años para poder ser utilizada de forma comercial (la fusión no será comercial al menos hasta el año 2050).[41]​ La principal dificultad encontrada, entre otras muchas de diseño y materiales, consiste en la forma de confinar la materia en estado de plasma hasta alcanzar las condiciones impuestas por los criterios de Lawson, ya que no hay materiales capaces de soportar las temperaturas impuestas.
+
+Se han diseñado dos alternativas para alcanzar los criterios de Lawson, que son el confinamiento magnético y el confinamiento inercial.
+
+Aunque ya se llevan a cabo reacciones de fusión de forma controlada en los distintos laboratorios, en estos momentos los proyectos se encuentran en el estudio de viabilidad técnica en centrales de producción eléctrica como el ITER o el NIF. El proyecto ITER, en el que participan entre otros Japón y la Unión Europea, pretende construir una central experimental de fusión y comprobar su viabilidad técnica. El proyecto NIF, en una fase más avanzada que ITER, pretende lo mismo en Estados Unidos usando el confinamiento inercial.
+
+Una vez demostrada la viabilidad de conseguir un reactor de fusión que sea capaz de funcionar de forma continuada durante largos períodos, se construirán prototipos encaminados a la demostración de su viabilidad económica.[42]​
+
+Existen dos grandes grupos, separados por el método empleado para alcanzar las condiciones de tiempo, densidad y temperatura necesarias para que pueda alcanzarse la fusión controlada de forma continua:
+
+En el primer caso, en un recipiente donde se ha practicado un vacío elevado, se eleva la temperatura de una mezcla de deuterio-tritio mediante campos electromagnéticos hasta convertirla en plasma.
+
+También mediante campos electromagnéticos se confina el plasma en una región lo más pequeña y alejada de las paredes del recipiente que sea posible, aumentando de forma continua la densidad y la temperatura.
+
+A este tipo de fusión corresponden los diseños del Tokamak, como el futuro ITER, o del Stellarator, como el TJ-II español.
+
+En el segundo caso se hace incidir un haz de fotones o de partículas cargadas (electrones o protones) muy energético e intenso sobre un blanco compuesto por el combustible (deuterio-tritio actualmente). Ese haz puede estar enfocado de forma directa sobre el blanco, o bien de forma indirecta sobre un dispositivo denominado holraum construido con un material de alto Z que genera a su vez un intensísimo campo de rayos X que está enfocado sobre el blanco.
+
+Hasta la década de 1970 no se desarrollaron láseres con las potencias necesarias para conseguir iniciar la reacción.
+
+En la actualidad se investiga en varios centros, pero a nivel nacional. Esto se debe a que el mecanismo empleado produce microexplosiones termonucleares, de forma que tanto el software empleado en cálculos y simulaciones termohidráulicas, como los resultados obtenidos, pueden emplearse directamente en el armamento termonuclear. Por este motivo las instalaciones construidas hasta el momento, además de buscar la aplicación civil mediante generación de electricidad, poseen una importante componente militar ya que permiten, tras la prohibición de ensayos nucleares en superficie, realizar pruebas a escala diminuta (para los parámetros del armamento nuclear).
+
+Aunque existen múltiples diseños tanto con el uso de láseres como de aceleradores de partículas, los proyectos más importantes hasta el momento en el mundo son el NIF de Estados Unidos y el LMJ francés, ambos diseños empleando láseres.
+
+Aunque la misma filosofía empleada en la fisión puede emplearse en los reactores de fusión, se ha planteado esta como una opción no contaminante e intrínsecamente segura. Desde el punto de vista de la seguridad, ya que los reactores diseñados necesitan un aporte exterior de energía y de combustible, si existiera un accidente que produjese el fallo de la máquina la reacción se detendría, con lo que se hace imposible una reacción en cadena descontrolada.
+
+El residuo principal de la reacción de fusión deuterio-tritio sería el helio, que es un gas noble y por tanto no interacciona con nada, incluido el organismo humano. Sin embargo las reacciones nucleares de fusión desprenden neutrones altamente energéticos. Esto implica la producción de materiales radiactivos por activación neutrónica. Además, en un ciclo deuterio-tritio, una parte del propio combustible es también radiactivo (el tritio). Para minimizar los efectos, por tanto:
+
+Para ello se está investigando en el uso de materiales de baja activación, utilizando aleaciones que no son comunes en otras aplicaciones. Este aspecto podría disminuir la cantidad de residuos radiactivos generados, pero además en caso de accidente donde parte de los materiales se fundieran por las altas temperaturas, el inventario radiactivo emitido también sería menor. Además, la estrategia de diseño se centra en conseguir que todos los radioisótopos generados sean de semiperiodo corto (menor de 10 años). Si no se consiguiera, las estrategias a seguir serían idénticas a las estudiadas en el caso de los reactores de fisión.
+
+Hasta los años 1990 no se había planteado realmente este problema, por lo que los materiales válidos para la fusión se pensaba que eran los aceros austeníticos (SS316L y SS316-modTi) y ferríticos/martensíticos (HT-9 y DIN 1.1494/MANET). Las investigaciones se habían centrado en la gestión de residuos, dejando de lado el estudio de los posibles accidentes. A partir de los 90 se plantea que debían contemplarse varios problemas en la optimización de los materiales de baja activación, subrayándose principalmente el aspecto de la seguridad frente accidentes además del clásico de la gestión de los residuos. A partir de los aceros convencionales propuestos para fusión se propusieron versiones de baja activación, resultado de la sustitución de elementos que daban lugar a una radiactividad alta por otros metalúrgicamente equivalentes y de baja actividad inducida.
+
+Las soluciones que se adopten en la fusión inercial o en la magnética en principio no tendrán que ser iguales. Así se han desarrollado aleaciones de vanadio, titanio y cromo que presentan mejores comportamientos en la fusión inercial que en la magnética. Se sabe que los materiales cerámicos tienen mejor comportamiento que los aceros en ambos tipos de fusión.
+
+Un método ampliamente utilizado en aquellas aplicaciones en las que se requiere un aporte eléctrico de baja corriente, con una larga duración, es el uso de unidades de calor mediante radioisótopos acoplados a una serie de termopares que proporcionan una corriente eléctrica, los llamados generadores termoeléctricos de radioisótopos.
+
+En este caso se aprovecha la radiactividad emitida por los núcleos de algunos isótopos. Los isótopos considerados más interesantes para este tipo de aplicación son aquellos que emiten partículas alfa (como por ejemplo el 241Am o el 210Po), ya que se reaprovechan más eficientemente las radiaciones emitidas, y es más sencillo su manejo. Sin embargo también se han utilizado emisores beta, como el 90Sr.
+
+Estos generadores suelen poseer duraciones de varias décadas, y son extremadamente útiles en aplicaciones en las que otras soluciones no sirven. Por ejemplo, en zonas donde es difícil el mantenimiento o sustitución de las baterías y además no existe suficiente luz solar o viento. Se han utilizado en faros cercanos al polo norte en la antigua Unión Soviética y se utilizan frecuentemente en sondas espaciales. Una de sus aplicaciones más curiosas puede ser su uso en marcapasos.
+
+En algunas sondas espaciales que deben permanecer a muy baja temperatura se utiliza simplemente su capacidad de generar calor, obviando la posibilidad de generación eléctrica.
+
+El 15 de octubre de 1997 se lanzó la misión Cassini-Huygens con destino a Saturno y Titán, en la que se ensambló uno de estos dispositivos.[43]​
+
+En estos dispositivos la seguridad se basa en dos sistemas principalmente:
+
+En el caso de los GTR situados en zonas de alta inaccesibilidad, como los utilizados en faros instalados cerca de los polos, se suponía que la propia inaccesibilidad de las zonas aseguraba su integridad. Esto sin embargo no ha impedido que sucedieran varios accidentes.
+
+En el caso de los utilizados en satélites espaciales, la seguridad de los materiales radiactivos se asegura al mantener una vigilancia continua en las instalaciones, tanto en la construcción como en el montaje de los satélites. Una vez lanzados al espacio, evidentemente se hace imposible su mal uso. Sin embargo, en algunas ocasiones se han usado GTR en satélites en órbita alrededor de la Tierra. Cuando esa órbita se hace inestable es posible que el satélite caiga de nuevo, fundiéndose en su mayor parte en la reentrada. Este, junto a un posible accidente en el lanzamiento son los principales problemas de seguridad en este caso. En total se han producido 6 accidentes conocidos de este tipo (el último en 1996 en una sonda rusa). Para evitar la dispersión del material radiactivo que contienen se fabrican en materiales cerámicos (insolubles y resistentes al calor), rodeado de una capa de iridio, otra de bloques de grafito de alta resistencia y un gel que le da resistencia ante una posible reentrada en la atmósfera.
+
+Para los GTR utilizados como marcapasos el principal problema se encuentra en la pérdida de información acerca de los pacientes en los que se han utilizado, imposibilitando así su debido seguimiento. Por este motivo, existe la posibilidad de que el paciente, tras su fallecimiento, fuera incinerado, incinerando con ello el propio dispositivo y su material radiactivo.
+
+Las fuentes radiactivas de los GTR sobre los que se ha perdido el control (principalmente tras la caída de la URSS) son el principal motivo de preocupación por su posible uso en atentados terroristas (como parte de una bomba sucia), y por este motivo se realizan grandes esfuerzos a nivel internacional por recuperarlas y ponerlas bajo control de nuevo.
+
+En general, cualquier aplicación industrial genera residuos. Todas las formas de generación de energía nuclear también los generan. Tanto los reactores nucleares de fisión o fusión (cuando entren en funcionamiento) como los GTR generan residuos convencionales que son trasladados a vertederos o instalaciones de reciclaje, residuos tóxicos convencionales (pilas, líquido refrigerante de los transformadores, etc.) y residuos radiactivos. El tratamiento de todos ellos, con excepción hecha de los residuos radiactivos, es idéntico al que se da a los residuos del mismo tipo generado en otros lugares (instalaciones industriales, ciudades,...).
+
+Es diferente el tratamiento que se emplea en los residuos radiactivos. Para ellos se desarrolló una regulación específica, gestionándose de formas diferentes en función del tipo de radiactividad que emiten y del semiperiodo que poseen. Esta regulación engloba todos los residuos radiactivos, ya procedan de instalaciones de generación de electricidad, de instalaciones industriales o de centros médicos.
+
+Se han desarrollado diferentes estrategias para tratar los distintos residuos que proceden de las instalaciones o dispositivos generadores de energía nuclear:
+
+Para gestionar los residuos radiactivos suele existir en cada país un organismo creado exclusivamente para ello. En España se creó la Empresa Nacional de Residuos Radiactivos, que gestiona los residuos radiactivos de todo tipo generados tanto en las centrales nucleares como en el resto de instalaciones nucleares o radiactivas.
+
+La regulación nuclear puede separarse en cuatro grandes grupos:
+
+Las bases científicas de toda la regulación internacional existente se fundan en estudios propios y recopilaciones llevadas a cabo por la CIPR,[47]​ UNSCEAR[48]​ o el NAS/BEIR americano.[49]​ Además de estos, existen una serie de agencias de investigación y desarrollo en seguridad, como pueden ser la AEN[50]​ o el EPRI.[51]​ A partir de todas ellas, existen dos organismos internacionales que desarrollan las bases para la legislación: el OIEA (a nivel internacional)[52]​ y EURATOM (en Europa).[53]​
+
+También existen algunos organismos nacionales, que emiten documentación dedicada a cada uno de los campos, que sirven de guía a otros países. Así ocurre por ejemplo con la NCRP, la NRC o la EPA estadounidenses, la HPA inglesa (antiguamente NRPB) o el CEA francés.
+
+Además de estas regulaciones específicas, existen otras leyes y acuerdos que tienen en mayor o menor medida relación con la energía nuclear. Así por ejemplo las leyes de calidad del agua o la convención OSPAR. Aunque en el Protocolo de Kioto, que trata sobre las industrias que emiten gases de efecto invernadero, no se menciona la energía nuclear, sí aparece en otros documentos referentes al calentamiento global antropogénico. Así, en los acuerdos de Bonn de 2001,[54]​ se establecieron los mecanismos de compraventa de emisiones de gases de efecto invernadero y los mecanismos de intercambio de tecnologías, excluyendo ambos explícitamente a la energía nuclear. De este modo, no se pueden reducir las cuotas de emisión de los países altamente industrializados mediante la venta de tecnología nuclear a países menos desarrollados, ni se pueden vender las cuotas de emisiones a países que funden sus bajas emisiones en la energía nuclear. El IPCC, sin embargo, sí recomienda en su cuarto informe el uso de la energía nuclear como una de las únicas formas (junto a las energías renovables y la eficiencia energética) de reducir la emisión de gases de efecto invernadero.[55]​
+
+Las centrales nucleares generan aproximadamente un tercio de la energía eléctrica que se produce en la Unión Europea, evitando así la emisión a la atmósfera de 700 millones de toneladas de dióxido de carbono por año [1][cita requerida] y del resto de emisiones contaminantes asociadas con el uso de combustibles fósiles.
+
+Por otra parte, la aplicación de la tecnología nuclear a la medicina ha tenido importantes aportes: emisiones de radiación para diagnóstico, como los rayos X, y para tratamiento del cáncer como la radioterapia; radiofármacos, que principalmente consiste en la introducción de sustancias al cuerpo, que pueden ser monitoreadas desde el exterior. En la alimentación ha permitido, por medio de las radiaciones ionizantes, la conservación de alimentos. También se ha logrado un aumento en la recolección de alimentos, ya que se ha combatido plagas, que creaban pérdidas en las cosechas.[56]​
+
+En la agricultura, se pueden mencionar las técnicas radioisotópicas y de radiaciones, las cuales son usadas para crear productos con modificación genética, como dar mayor color a alguna fruta o aumentar su tamaño.[56]​
+
+Algunas de estas desventajas son poco probables.
+
+Otro inconveniente de la energía atómica es el coste de construcción y mantenimiento de las centrales nucleares, siendo éste muy elevado. Los últimos proyectos que se han llevado a cabo, como la central de Olkiluoto 3 en Finlandia, la central de Hinkley Point C en el Reino Unido, la central de Flamanville-3 en Francia y los reactores Vogtle 3 y 4 en los Estados Unidos han costado entre 5,3 y más de 10 millones de Euros por MW instalado. Estos costes resultan mucho mayores que los de las instalación de energías renovables, ya que a finales del 2019 una instalación fotovoltaica tenía un coste de entre 600.000 y 700.000 € por MW y una instalación eólica alrededor de 1 millón de € por MW.[57]​
+Sin embargo, la cantidad de energía que producen en su vida útil las centrales nucleares  compensa los gastos de sus construcciones y mantenimientos.
+
